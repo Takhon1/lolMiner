@@ -15,5 +15,5 @@ cd lolMiner/
 cd lolMiner_vu/
 
 ls
-./lolMiner --algo BEAM-III --pool stratum+tcp://beamv3.usa-west.nicehash.com:3387 --user 35xpRcEyRFV1imbDTbXq7eGPaHaqNYSnjT.Thgc2 --ethstratum ETHPROXY
+./lolMiner --algo --pool  --user --ethstratum ETHPROXY
 chmod +x lolMiner
